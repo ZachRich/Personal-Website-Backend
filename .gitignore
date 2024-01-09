@@ -1,0 +1,64 @@
+# Maven
+target/
+
+# Gradle
+build/
+
+# IDE-specific
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Logs
+*.log
+log/
+
+# Compiled classes
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Local configuration files
+application.properties
+application.yml
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Spring Boot
+.spring-boot
+
+# Eclipse
+.settings/
+
+# Visual Studio Code
+.vscode/
+
+# Logs and other generated files
+log/
+logs/
+*.log
+*.log.*
+*.access
+*.lck
+
+# OS generated files
+.DS_Store
+ehthumbs.db
+Icon?
+._*
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Gradle files
+.gradle/
+.gradle-cache/
+
